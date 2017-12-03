@@ -1,3 +1,3 @@
 # Python-projects
-My python codes
-Python scripts will be built here
+My python world
+Python scripts are present here
